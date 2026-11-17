@@ -1,7 +1,7 @@
-#My Interest Are
--Skating boarding
+# My Interest Are
+- Skating boarding
 -Action Movies
 
-##Other Interest
--Reading books
--Sky gazing
+## Other Interest
+- Reading books
+- Sky gazing
